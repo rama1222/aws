@@ -3,12 +3,9 @@ this is new change
 this 2nd chnge
 
 this is 3rd chnge
+<<<<<<< HEAD
 
 this is n cli
+=======
 this is in ui 
-
-jj
-
-
-
-radha sangula
+>>>>>>> 6c286ecc3b5efb1de7e298b3f17118322c4f436d
